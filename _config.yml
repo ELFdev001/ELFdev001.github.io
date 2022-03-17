@@ -3,6 +3,6 @@ email: P.Murgatroyd@Bradford.ac.uk
 description: Europe's Lost Frontiers, MWGrid, UNPATH and more.
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 
 
