@@ -2,7 +2,7 @@ title: Phil Murgatroyd's developer pages
 email: P.Murgatroyd@Bradford.ac.uk
 description: Europe's Lost Frontiers, MWGrid, UNPATH and more.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ELFdev001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ELFdev001
 
 # Build settings
