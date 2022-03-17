@@ -20,8 +20,7 @@
 
 title: Phil Murgatroyd's developer pages
 email: P.Murgatroyd@Bradford.ac.uk
-description: >- # this means to ignore newlines until "baseurl:"
-Europe's Lost Frontiers, MWGrid, UNPATH and more.
+description: Europe's Lost Frontiers, MWGrid, UNPATH and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ELFdev001
