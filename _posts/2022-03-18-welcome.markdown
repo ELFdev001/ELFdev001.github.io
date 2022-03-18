@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2022-03-18 14:32:37 +0000
+categories: info
+---
+
+Welcome to ~~Jekyll~~ my developer pages, in which I provide a link to software and publications that I have been involved in, and also try my hand at Jekyll. We'll see how this goes. Hopefully it can be more regularly updated than my old Wordpress, which should be linked on the 'About' page, and to which I may refer at times.
