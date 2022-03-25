@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Phil Murgatroyd's developer page
+author: Phil Murgatroyd
+name: Phil Murgatroyd
 email: P.Murgatroyd@bradford.ac.uk
 description: Phil Murgatroyd's developer page
 baseurl: "" # the subpath of your site, e.g. /blog
