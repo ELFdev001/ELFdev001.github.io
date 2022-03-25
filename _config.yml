@@ -26,7 +26,8 @@ description: Phil Murgatroyd's developer page
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
-  github: ELFdev001
+  social_links:
+    github: ELFdev001
 
 # Build settings
 theme: minima
