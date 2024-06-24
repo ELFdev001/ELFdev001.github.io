@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unpath simulation
+title: Unpath
 permalink: /unpath/
 ---
 
