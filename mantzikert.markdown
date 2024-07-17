@@ -9,10 +9,11 @@ permalink: /mantzikert/
 
 If you'd like to follow the published output of the project in order then here's a timeline:
 
-[General Issues in the Study of Medieval Logistics](https://brill.com/edcollbook/title/12491) collected a selection of papers highlighting the problems that the Medieval Warfare on the Grid project was subsequently designed to answer.
+<hr />
+
+<strong>[General Issues in the Study of Medieval Logistics (ed. Haldon, 2006)](https://brill.com/edcollbook/title/12491)</strong> collected a selection of papers highlighting the problems that the Medieval Warfare on the Grid project was subsequently designed to answer.
 
 <em>During the project a number of papers were published detailing the ongoing progress. </em>
-<hr />
 
 <strong>Medieval Military Logistics: A Case for Distributed Agent- based Simulation</strong> (Murgatroyd et al, 2010)
 
