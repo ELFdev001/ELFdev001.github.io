@@ -11,19 +11,20 @@ If you'd like to follow the published output of the project in order then here's
 
 [General Issues in the Study of Medieval Logistics](https://brill.com/edcollbook/title/12491) collected a selection of papers highlighting the problems that the Medieval Warfare on the Grid project was subsequently designed to answer.
 
-During the project a number of papers were published detailing the ongoing progress. 
+<em>During the project a number of papers were published detailing the ongoing progress. </em>
+<hr />
 
-Medieval Military Logistics: A Case for Distributed Agent- based Simulation (Murgatroyd et al, 2010)
+<strong>Medieval Military Logistics: A Case for Distributed Agent- based Simulation</strong> (Murgatroyd et al, 2010)
 
-Marching across Anatolia: Medieval Logistics and Modeling the Mantzikert Campaign (Haldon et al, 2011)
+<strong>Marching across Anatolia: Medieval Logistics and Modeling the Mantzikert Campaign</strong> (Haldon et al, 2011)
 
-Modelling medieval military logistics: an agent-based simulation of a Byzantine army on the march (Murgatroyd et al, 2012)
+<strong>Modelling medieval military logistics: an agent-based simulation of a Byzantine army on the march</strong> (Murgatroyd et al, 2012)
 
-MWGrid: A system for distributed agent-based simulation in the digital humanities (Craenen et al, 2012)
+<strong>MWGrid: A system for distributed agent-based simulation in the digital humanities</strong> (Craenen et al, 2012)
 
-'Only Individuals': moving the Byzantine army to Manzikert (Gaffney et al, 2013)
+<strong>'Only Individuals': moving the Byzantine army to Manzikert</strong> (Gaffney et al, 2013)
 
-Calm Before the Storm? Modelling Military Supply and Movement (Murgatroyd et al, 2014)
+<strong>Calm Before the Storm? Modelling Military Supply and Movement</strong> (Murgatroyd et al, 2014)
 
 
 Future work in the area of the simulation of pre-modern logistics is underway and will be linked here when there is anything to show.
