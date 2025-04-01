@@ -11,5 +11,5 @@ When Europe's Lost Frontiers came along, an AR sandbox was seen as a good way of
 
 A second model was created, ELF Activity Traces, which allowed a demonstration of the types of archaeological investigation we could do under the sea, and what the differences were between them.
 
-Now that the book chapter covering the sandbox has been published ([part of this book](https://link.springer.com/book/10.1007/978-3-030-77028-0)), I'll be making sure the software is documented properly on github. If you can't get the Springer book, the sandbox chapter is available [here](https://bradford.academia.edu/PhilipMurgatroyd).
+Now that the book chapter covering the sandbox has been published ([part of this book](https://link.springer.com/book/10.1007/978-3-030-77028-0)), I'll be making sure the software is documented properly on github. If you can't get the Springer book, the sandbox chapter is available [here](https://bradford.academia.edu/PhilipMurgatroyd). An intro video is availabe on my [YouTube channel](https://youtu.be/6T9FZwyFB0I).
 
