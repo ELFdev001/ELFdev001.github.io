@@ -5,7 +5,11 @@ permalink: /mantzikert/
 ---
 
 # Modelling the Logistics of Mantzikert
-[Modelling the Logistics of Mantzikert](https://www.archaeopress.com/Archaeopress/Products/9781803277998) is the monograph resulting from the AHRC-EPSRCS-Jisc e-Science project, 'Medieval Warfare on the Grid'. It uses computer simulation to gain a fresh perspective on the logistical context of the Byzantine army's march across Anatolia in AD 1071. It is intended to be a synthesis of the project and subsequent work, which made more extensive use of 19th century sources.
+<strong>[Modelling the Logistics of Mantzikert](https://www.archaeopress.com/Archaeopress/Products/9781803277998)</strong> is the monograph resulting from the AHRC-EPSRCS-Jisc e-Science project, 'Medieval Warfare on the Grid'. It uses computer simulation to gain a fresh perspective on the logistical context of the Byzantine army's march across Anatolia in AD 1071. It is intended to be a synthesis of the project and subsequent work, which made more extensive use of 19th century sources.
+
+A runnable jar of the software is available [here](https://zwack.itch.io/mwgrid), but it's probably best if you don't try without dropping me a line first as the software is aggressively un-user friendly.
+
+The source code and documentation are [here](https://github.com/ELFdev001/newMz).
 
 If you'd like to follow the published output of the project in order then here's a timeline:
 
