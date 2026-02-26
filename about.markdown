@@ -13,6 +13,10 @@ My work mainly focusses on computer simulation in archaeology although I've also
 
 [My ResearchGate.net page](https://www.researchgate.net/profile/Phil-Murgatroyd-2)
 
+[My Itch.io page](https://zwack.itch.io/)
+
+[My Youtube channel](https://www.youtube.com/@PMurgatroyd-Arch)
+
 [My LinkedIn profile](https://uk.linkedin.com/in/phil-murgatroyd-974155321)
 
 [My old Wordpress](https://archaeologyabm.wordpress.com/)
