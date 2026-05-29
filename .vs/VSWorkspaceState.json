@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\_posts\\2025-01-02-someoutputs.markdown",
+  "SelectedNode": "\\_layouts\\post.html",
   "PreviewInSolutionExplorer": false
 }
